@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Strongorange/covid/static/css/main.48e2ed87.chunk.css",
+    "main.js": "/Strongorange/covid/static/js/main.1b6eea09.chunk.js",
+    "main.js.map": "/Strongorange/covid/static/js/main.1b6eea09.chunk.js.map",
+    "runtime-main.js": "/Strongorange/covid/static/js/runtime-main.994b2d70.js",
+    "runtime-main.js.map": "/Strongorange/covid/static/js/runtime-main.994b2d70.js.map",
+    "static/js/2.ccac6c9d.chunk.js": "/Strongorange/covid/static/js/2.ccac6c9d.chunk.js",
+    "static/js/2.ccac6c9d.chunk.js.map": "/Strongorange/covid/static/js/2.ccac6c9d.chunk.js.map",
+    "index.html": "/Strongorange/covid/index.html",
+    "static/css/main.48e2ed87.chunk.css.map": "/Strongorange/covid/static/css/main.48e2ed87.chunk.css.map",
+    "static/js/2.ccac6c9d.chunk.js.LICENSE.txt": "/Strongorange/covid/static/js/2.ccac6c9d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.994b2d70.js",
+    "static/js/2.ccac6c9d.chunk.js",
+    "static/css/main.48e2ed87.chunk.css",
+    "static/js/main.1b6eea09.chunk.js"
+  ]
+}
